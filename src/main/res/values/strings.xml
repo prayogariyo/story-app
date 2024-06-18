@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title_signup_page">Sign Up</string>
+    <string name="username">username</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="deskripsi">Description</string>
+    <string name="gambar">gambar\n</string>
+    <string name="upload">upload</string>
+    <string name="gallery">Gallery</string>
+    <string name="kamera">Camera</string>
+    <string name="lokasi">lokasi</string>
+    <string name="dont_have_account">Dont have account</string>
+    <string name="title_login_page">Login</string>
+    <string name="email_hint">email</string>
+    <string name="already_have_an_account">already_have_an_account</string>
+    <string name="login_here">login</string>
+    <string name="title">judul\n</string>
+    <string name="description">deskripsi\n</string>
+    <string name="image">image</string>
+    <string name="name">nama</string>
+    <string name="detail">detail</string>
+    <string name="empty_image_warning">empty_image_warning</string>
+    <string name="camera_error">camera_error</string>
+    <string name="erorEmail">erorEmail</string>
+    <string name="erorPass">errorPass</string>
+    <string name="menu_logout">logout</string>
+    <string name="minimum_characters">minimum 8 characters</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="normal_type">Normal</string>
+    <string name="maps">Maps</string>
+    <string name="appwidget_text">Widget_text</string>
+    <string name="retry">retry</string>
+    <!--    <item name="normal_type" type="id">Normal</item>-->
+    <!--    <item name="satellite_type" type="id">Satellite</item>-->
+    <!--    <item name="terrain_type" type="id">Terrain</item>-->
+    <!--    <item name="hybrid_type" type="id">Hybrid</item>-->
+</resources>
